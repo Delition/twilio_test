@@ -1,0 +1,16 @@
+{
+  "name": "ferrokot/twilio-api-test",
+  "description": "Simple app for user phone verification",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Dima Honcharov",
+      "email": "ferrokot@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {"Inc\\": "./inc"}
+  }
+}
